@@ -18,7 +18,7 @@ Bienvenue,
 Ce Github vous permet : 
 
 - De signaler tout problème, en créant une issue dans l'onglet du même nom. Il vous suffit d'utiliser le modèle "Bug Report" en indiquant une description, les étapes pour reproduire le bug et les caractéristiques de votre téléphone.
-- De proposer une amélioration en créant une issue avec le modèle nommé "New Feature" .
+- De proposer une amélioration en créant une issue avec le modèle nommé "New Feature".
 - De comprendre comment fonctionne l'application. Pour ceci, vous pouvez aller dans l'onglet "Wiki" afin d'accéder aux manuels utilisateurs en français et à des vidéos explicatives.
 
 Merci pour tous vos retours ! 
