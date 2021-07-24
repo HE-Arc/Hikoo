@@ -10,10 +10,8 @@ This Github allows you :
 - To understand how works Hikoo, by refering to the wiki tab where some tutorial videos are referenced and user guides (only in French).
 
 Thanks for your feedback !
-
-
-[FR]
-Bienvenue, 
+-------------------------------------------
+[FR] Bienvenue, 
 
 Ce Github vous permet : 
 
@@ -22,3 +20,12 @@ Ce Github vous permet :
 - De comprendre comment fonctionne l'application. Pour ceci, vous pouvez aller dans l'onglet "Wiki" afin d'accéder aux manuels utilisateurs en français et à des vidéos explicatives.
 
 Merci pour tous vos retours ! 
+------------------------------------
+[IT] Benvenuti!
+
+Questo Github consente:
+
+-	Di segnalare qualsiasi problema, creando un’issue nella scheda con lo stesso nome. La procedura è semplice: usare il modello “Bug Report” indicando una descrizione e i passaggi per riprodurre il bug.
+-	Di proporre un miglioramento creando 	un’issue con l’esempio denominato “New Feature”
+-	Di capire come funziona l’applicazione: le guide utente (solo in francese) si trovano nella scheda “Wiki” e anche tutti i video di spiegazione.
+Grazie per tutti i commenti!
