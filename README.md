@@ -28,6 +28,6 @@ Questo Github consente:
 
 -	Di segnalare qualsiasi problema, creando un’issue nella scheda con lo stesso nome. La procedura è semplice: usare il modello “Bug Report” indicando una descrizione e i passaggi per riprodurre il bug.
 -	Di proporre un miglioramento creando 	un’issue con l’esempio denominato “New Feature”
--	Di capire come funziona l’applicazione: le guide utente (solo in francese o inglese) si trovano nella scheda “Wiki” e anche tutti i video di spiegazione.
+-	Di capire come funziona l’applicazione: le guide utente (solo in francese oppure inglese) si trovano nella scheda “Wiki” e anche tutti i video di spiegazione.
 
 Grazie per tutti i commenti!
