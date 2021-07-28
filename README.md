@@ -6,7 +6,7 @@ This Github allows you :
 
 - To alert about a bug/issue, by creating an issue via the same named tab. Please use the "Bug Report" Template.
 - To suggest an improvement, also by creating an issue with the "New Feature" Template.
-- To understand how works Hikoo, by refering to the wiki tab where some tutorial videos are referenced and user guides (only in French).
+- To understand how works Hikoo, by refering to the wiki tab where some tutorial videos are referenced and user guides.
 
 Thanks for your feedback !
 
@@ -28,6 +28,6 @@ Questo Github consente:
 
 -	Di segnalare qualsiasi problema, creando un’issue nella scheda con lo stesso nome. La procedura è semplice: usare il modello “Bug Report” indicando una descrizione e i passaggi per riprodurre il bug.
 -	Di proporre un miglioramento creando 	un’issue con l’esempio denominato “New Feature”
--	Di capire come funziona l’applicazione: le guide utente (solo in francese) si trovano nella scheda “Wiki” e anche tutti i video di spiegazione.
+-	Di capire come funziona l’applicazione: le guide utente (solo in francese o inglese) si trovano nella scheda “Wiki” e anche tutti i video di spiegazione.
 
 Grazie per tutti i commenti!
